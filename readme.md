@@ -1,4 +1,4 @@
 -Developed using PHP with MySql database on XAMPP stack
--Database file not included. Create one by referring the project .php files
+_database file found as "timesheet.sql". Import it into your PhpMyadmin tool running on the XAMPP stack
 -Used JQuery, Moment.js for Javascript validation
 
